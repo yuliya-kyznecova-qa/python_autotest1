@@ -1,2 +1,2 @@
-# python_autotest1
-пример автотестов на pytests
+# python_autotests
+Пример автотестов на pytest + requests
